@@ -1,5 +1,7 @@
 # 🧠 Notesbot Chatbot
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://notesbot-chatbot-hbvpkbtztypne7xyxgcxc8.streamlit.app)
+
 An intelligent, user-friendly chatbot built with **Streamlit** that allows users to upload academic documents (PDFs, DOCX, PPTX, CSV, TXT) and ask questions directly based on their content. Ideal for students and educators looking to quickly understand notes, lectures, and other academic materials.
 
 ---
