@@ -7,3 +7,6 @@ langchain-huggingface
 sentence-transformers
 faiss-cpu
 pypdf
+unstructured
+python-docx
+python-pptx
